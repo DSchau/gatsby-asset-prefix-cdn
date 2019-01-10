@@ -1,2 +1,2 @@
 /static/*
-  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Origin: https://gatsby-asset-prefix.netlify.com/
